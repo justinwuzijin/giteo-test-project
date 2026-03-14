@@ -7,9 +7,9 @@
           "id": "item_001_000",
           "media_ref": "sha256:68cc1530e339",
           "name": "CLIPABIT_1.mp4",
-          "record_end_frame": 86445,
+          "record_end_frame": 86419,
           "record_start_frame": 86400,
-          "source_end_frame": 45,
+          "source_end_frame": 19,
           "source_start_frame": 0,
           "track_index": 1,
           "transform": {
@@ -24,7 +24,25 @@
     },
     {
       "index": 2,
-      "items": []
+      "items": [
+        {
+          "id": "item_002_000",
+          "media_ref": "sha256:unknown_0",
+          "name": "3DText Rotate",
+          "record_end_frame": 86419,
+          "record_start_frame": 86400,
+          "source_end_frame": 19,
+          "source_start_frame": 0,
+          "track_index": 2,
+          "transform": {
+            "Opacity": 100.0,
+            "Pan": 0.0,
+            "Tilt": 0.0,
+            "ZoomX": 1.0,
+            "ZoomY": 1.0
+          }
+        }
+      ]
     }
   ]
 }
