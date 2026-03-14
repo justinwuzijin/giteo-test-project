@@ -1,0 +1,14 @@
+{
+  "frame_rate": 24.0,
+  "project_name": "",
+  "resolution": {
+    "height": 1080,
+    "width": 1920
+  },
+  "start_timecode": "01:00:00:00",
+  "timeline_name": "",
+  "track_count": {
+    "audio": 1,
+    "video": 1
+  }
+}

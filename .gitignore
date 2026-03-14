@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Media files — giteo tracks metadata, not binaries
+*.mov
+*.mp4
+*.mxf
+*.avi
+*.mkv
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.aac
+*.braw
+*.r3d
+*.arw
+*.dng
+
+# Render output
+Render/
+Deliver/
+
+# DaVinci Resolve project files (managed by Resolve, not giteo)
+*.drp
+
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
