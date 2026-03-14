@@ -1,7 +1,7 @@
 {
   "grades": {
     "item_001_000": {
-      "drx_file": "item_001_000_2.1.1.drx",
+      "drx_file": "item_001_000_1.1.1.drx",
       "nodes": [
         {
           "index": 1,
@@ -13,7 +13,7 @@
       "version_name": "Version 1"
     },
     "item_002_000": {
-      "drx_file": "item_002_000_2.1.1.drx",
+      "drx_file": "item_002_000_1.1.1.drx",
       "nodes": [
         {
           "index": 1,

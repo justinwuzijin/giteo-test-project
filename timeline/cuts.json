@@ -29,9 +29,9 @@
           "id": "item_002_000",
           "media_ref": "sha256:unknown_0",
           "name": "3DText Rotate",
-          "record_end_frame": 86419,
+          "record_end_frame": 86403,
           "record_start_frame": 86400,
-          "source_end_frame": 19,
+          "source_end_frame": 3,
           "source_start_frame": 0,
           "track_index": 2,
           "transform": {
