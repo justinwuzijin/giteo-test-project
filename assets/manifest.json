@@ -1,3 +1,11 @@
 {
-  "assets": {}
+  "assets": {
+    "sha256:68cc1530e339": {
+      "codec": "H.264 Main L4.1",
+      "duration_frames": 603,
+      "filename": "CLIPABIT_1.mp4",
+      "original_path": "/Volumes/by/CLIPABIT_1.mp4",
+      "resolution": "1920x1080"
+    }
+  }
 }

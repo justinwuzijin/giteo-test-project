@@ -1,3 +1,21 @@
 {
-  "grades": {}
+  "grades": {
+    "item_001_000": {
+      "drx_file": "item_001_000_1.1.1.drx",
+      "nodes": [
+        {
+          "index": 1,
+          "label": "",
+          "lut": ""
+        },
+        {
+          "index": 2,
+          "label": "",
+          "lut": ""
+        }
+      ],
+      "num_nodes": 2,
+      "version_name": "Version 1"
+    }
+  }
 }
