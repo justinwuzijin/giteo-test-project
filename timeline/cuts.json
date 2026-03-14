@@ -7,10 +7,27 @@
           "id": "item_001_000",
           "media_ref": "sha256:68cc1530e339",
           "name": "CLIPABIT_1.mp4",
-          "record_end_frame": 86475,
+          "record_end_frame": 86481,
           "record_start_frame": 86400,
-          "source_end_frame": 75,
+          "source_end_frame": 81,
           "source_start_frame": 0,
+          "track_index": 1,
+          "transform": {
+            "Opacity": 100.0,
+            "Pan": 0.0,
+            "Tilt": 0.0,
+            "ZoomX": 1.0,
+            "ZoomY": 1.0
+          }
+        },
+        {
+          "id": "item_001_001",
+          "media_ref": "sha256:68cc1530e339",
+          "name": "CLIPABIT_1.mp4",
+          "record_end_frame": 86520,
+          "record_start_frame": 86481,
+          "source_end_frame": 521,
+          "source_start_frame": 482,
           "track_index": 1,
           "transform": {
             "Opacity": 100.0,
@@ -21,6 +38,10 @@
           }
         }
       ]
+    },
+    {
+      "index": 2,
+      "items": []
     }
   ]
 }
