@@ -7,9 +7,9 @@
           "id": "item_001_000",
           "media_ref": "sha256:68cc1530e339",
           "name": "CLIPABIT_1.mp4",
-          "record_end_frame": 86438,
+          "record_end_frame": 86430,
           "record_start_frame": 86400,
-          "source_end_frame": 38,
+          "source_end_frame": 30,
           "source_start_frame": 0,
           "track_index": 1,
           "transform": {
